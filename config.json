@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrncrypt",
+        "uuid": 10367280,
+        "checksum": "kncp58"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
